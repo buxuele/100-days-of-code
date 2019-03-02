@@ -15,6 +15,7 @@ def create_gif(filenames, duration=DURATION):
 	images = []
 	for f in filenames:
 		images.append(imageio.imread(f))
+	# mim-save, for many images
 	imageio.mimsave(OUT_GIF, images, duration=duration)
 
 
