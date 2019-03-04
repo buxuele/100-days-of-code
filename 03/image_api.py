@@ -18,8 +18,6 @@ def get_image():
         print(i["img"])
 
 
-
-
 if __name__ == '__main__':
     get_image()
 
