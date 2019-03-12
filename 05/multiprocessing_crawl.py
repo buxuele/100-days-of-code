@@ -8,10 +8,10 @@ def gen():
     us = []
     for i in open('x.m3u8'):
         if i[0] != "#":
-            url = 'http://video.ynianyongheng.com:8091/20190201/0054_sd/1000kb/hls/' + i.strip()
+            url = 'http:sssss' + i.strip()
             # yield url
 
-            #   http://video.ynianyongheng.com:8091/20190201/HEFJ0DWO1517/1000kb/hls/
+            #   http: ssss
             us.append(url)
     return us
             # print(url)
