@@ -53,7 +53,7 @@ if __name__ == '__main__':
 
     decode ts-files
     .m3u8: #EXT-X-KEY:METHOD=AES-128,URI=key.key !!! no-quote-marks
-    ffmpeg -allowed_extensions ALL -i x.m3u8 -c copy teacher.mp4
+    ffmpeg -allowed_extensions ALL -i x.m3u8 -c copy tt.mp4
 
-    ffmpeg -i x.m3u8 -c copy teacher.mp4
+    ffmpeg -i x.m3u8 -c copy tt.mp4
     '''
