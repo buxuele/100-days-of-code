@@ -7,12 +7,12 @@ import gevent
 from gevent import pool
 
 
-# https://yoube.bili-yongjiu.com/20190312/ze9tYzSL/800kb/hls/WHSt0D64762001.ts
+# h
 def gen():
     us = []
-    for i in open('x.m3u8'):
+    for i in open('index.m3u8'):
         if i[0] != "#":
-            url = 'httsome/' + i.strip()
+            url = 'ht/' + i.strip()
             # yield url
             us.append(url)
     return us
@@ -48,12 +48,16 @@ if __name__ == '__main__':
     print("cost time: ", t2 - t1)
 
     '''
-    cat segment1_0_av.ts segment2_0_av.ts segment3_0_av.ts > all.ts
-    ffmpeg -i all.ts -acodec copy -vcodec copy all.mp4
-
-    decode ts-files
-    .m3u8: #EXT-X-KEY:METHOD=AES-128,URI=key.key !!! no-quote-marks
-    ffmpeg -allowed_extensions ALL -i x.m3u8 -c copy tt.mp4
-
-    ffmpeg -i x.m3u8 -c copy tt.mp4
+    option 1 (no-key is needed):
+        cat *.ts > all.ts   
+        ffmpeg -i all.ts -acodec copy -vcodec copy all.mp4
+    
+    option 2(need key):
+        1. change *.m3u8: 
+            #EXT-X-KEY:METHOD=AES-128,URI=key.key !!! no-quote-marks
+        2. run : 
+            # ffmpeg -allowed_extensions ALL -i index.m3u8 -c copy tt.mp4
+    
+    option 3(not sure about this):
+        ffmpeg -i index.m3u8 -c copy rename_me.mp4
     '''

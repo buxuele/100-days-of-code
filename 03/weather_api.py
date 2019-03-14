@@ -18,10 +18,6 @@ Note:
 
 
 def get_weather():
-    """
-
-    """
-
     query = {'city': "上海"}
     url = 'https://www.apiopen.top/weatherApi'
     resp = requests.get(url, params=query)
@@ -31,8 +27,8 @@ def get_weather():
     # print(python_obj)
 
     today = python_obj["data"]["forecast"][0]["date"] + "\t" + \
-            python_obj["data"]["forecast"][0]["low"] + "\t" + \
             python_obj["data"]["forecast"][0]["high"] + "\t" + \
+            python_obj["data"]["forecast"][0]["low"] + "\t" + \
             python_obj["data"]["forecast"][0]["fengli"] + "\t" + \
             python_obj["data"]["forecast"][0]["fengxiang"] + "\t" + \
             python_obj["data"]["forecast"][0]["type"] + "\t"
