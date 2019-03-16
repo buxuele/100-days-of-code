@@ -7,12 +7,12 @@ import gevent
 from gevent import pool
 
 
-# https://eth.ppzuida.com/20180128/n7rNWHhp/800kb/hls/7gKw1Y6047010.ts
+# https://some.ts
 def gen():
     us = []
     for i in open('index.m3u8'):
         if i[0] != "#":
-            url = 'https://cdn.zypll.com/20190131/12930_95129c26/1000k/hls/' + i.strip()
+            url = 'https://some' + i.strip()
             # yield url
             us.append(url)
     return us
