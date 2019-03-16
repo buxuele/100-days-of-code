@@ -7,12 +7,12 @@ import gevent
 from gevent import pool
 
 
-# h
+# https://eth.ppzuida.com/20180128/n7rNWHhp/800kb/hls/7gKw1Y6047010.ts
 def gen():
     us = []
     for i in open('index.m3u8'):
         if i[0] != "#":
-            url = 'ht/' + i.strip()
+            url = 'https://cdn.zypll.com/20190131/12930_95129c26/1000k/hls/' + i.strip()
             # yield url
             us.append(url)
     return us
@@ -50,7 +50,7 @@ if __name__ == '__main__':
     '''
     option 1 (no-key is needed):
         cat *.ts > all.ts   
-        ffmpeg -i all.ts -acodec copy -vcodec copy all.mp4
+        ffmpeg -i all.ts -acodec copy -vcodec copy all2.mp4
     
     option 2(need key):
         1. change *.m3u8: 
@@ -61,3 +61,5 @@ if __name__ == '__main__':
     option 3(not sure about this):
         ffmpeg -i index.m3u8 -c copy rename_me.mp4
     '''
+
+
