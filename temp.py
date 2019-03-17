@@ -1,22 +1,10 @@
 import time
+import math
+from datetime import datetime
 
-print(" Enter to start, Ctrl + C to stop")
+t1 = datetime.now()
 
-
-while True:
-    try:
-        input()
-        startTime = time.time()
-        print("start now!")
-        while True:
-            print("time elapsed: ", round(time.time() - startTime, 0), "secs", end="\r")
-            time.sleep(1)
-    except KeyboardInterrupt:
-        print("Stoped")
-        endTime = time.time()
-        print("total Time: ", round(endTime - startTime, 2), 'secs')
-        break
-
+print(t1)
 
 
 

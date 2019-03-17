@@ -3,6 +3,7 @@ import socket
 
 # https://www.youtube.com/watch?v=Lbfe3-v7yE0
 # 这里2个词分别代表  ipv4, TCP
+# (socket_family, socket_type)
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 
 # 主机和端口
