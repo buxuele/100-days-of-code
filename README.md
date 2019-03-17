@@ -11,5 +11,5 @@ add more code later :)
 
 2. something fun with oepncv
 
-3. 每天看看这些基础的东西（1个小时吧)
+3.  
 

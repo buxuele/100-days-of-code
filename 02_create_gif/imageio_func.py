@@ -1,8 +1,6 @@
 import os
 import imageio
 
-
-
 im = imageio.imread('imageio:chelsea.png')
 
 print(im.size)
