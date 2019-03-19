@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9c883f40-63bc-46e8-a9ba-fcdb5dca6f7b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_finest/get_usefulLinks.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_OS/count_files.py" beforeDir="false" afterPath="$PROJECT_DIR$/10_OS/count_files.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/temp.py" beforeDir="false" afterPath="$PROJECT_DIR$/temp.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,7 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -33,9 +33,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/03/use_api.py" />
-        <option value="$PROJECT_DIR$/03/t1.py" />
-        <option value="$PROJECT_DIR$/03/json_test.py" />
         <option value="$PROJECT_DIR$/03/image_api.py" />
         <option value="$PROJECT_DIR$/04/test.py" />
         <option value="$PROJECT_DIR$/t.py" />
@@ -78,19 +75,22 @@
         <option value="$PROJECT_DIR$/01_spider/sele_01.py" />
         <option value="$PROJECT_DIR$/rm.txt" />
         <option value="$PROJECT_DIR$/rename_me.py" />
-        <option value="$PROJECT_DIR$/temp.py" />
         <option value="$PROJECT_DIR$/iter_content.py" />
         <option value="$PROJECT_DIR$/ok.py" />
         <option value="$PROJECT_DIR$/01_spider/wiki_random.py" />
         <option value="$PROJECT_DIR$/01_spider/wiki_api.py" />
+        <option value="$PROJECT_DIR$/11_image/pillow_01.py" />
+        <option value="$PROJECT_DIR$/09_socket/nmap_scan_o1.py" />
         <option value="$PROJECT_DIR$/10_OS/count_files.py" />
+        <option value="$PROJECT_DIR$/temp.py" />
+        <option value="$PROJECT_DIR$/11_image/cv2_01.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="4">
-    <option name="x" value="2255" />
+    <option name="x" value="2211" />
     <option name="y" value="27" />
-    <option name="width" value="1105" />
+    <option name="width" value="1149" />
     <option name="height" value="1053" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -101,8 +101,18 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
       <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="100-days-of-code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="100-days-of-code" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -127,7 +137,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.count_files">
+  <component name="RunManager" selected="Python.cv2_01">
     <configuration name="count_files" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="100-days-of-code" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -149,7 +159,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="iter_content" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="cv2_01" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="100-days-of-code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -157,11 +167,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11_image" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/iter_content.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11_image/cv2_01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -170,7 +180,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ok" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="pillow_01" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="100-days-of-code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -178,11 +188,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11_image" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ok.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11_image/pillow_01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -235,11 +245,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.cv2_01" />
         <item itemvalue="Python.count_files" />
+        <item itemvalue="Python.pillow_01" />
         <item itemvalue="Python.wiki_api" />
         <item itemvalue="Python.wiki_random" />
-        <item itemvalue="Python.ok" />
-        <item itemvalue="Python.iter_content" />
       </list>
     </recent_temporary>
   </component>
@@ -266,9 +276,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="2255" y="27" width="1105" height="1053" extended-state="4" />
+    <frame x="2211" y="27" width="1149" height="1053" extended-state="4" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17744917" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23445825" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -279,7 +289,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3293348" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3293348" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.4089422" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.53653216" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.3293348" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.3293348" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -339,34 +349,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/09_socket/client_01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="11" lean-forward="true" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/357686942/_ssl.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1213">
-          <caret line="308" column="6" selection-start-line="308" selection-start-column="6" selection-end-line="308" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3/ssl.pyi">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="950">
-          <caret line="72" column="4" selection-start-line="72" selection-start-column="4" selection-end-line="72" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/lib/python3/dist-packages/httplib2/socks.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="308" column="35" lean-forward="true" selection-start-line="308" selection-start-column="35" selection-end-line="308" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/09_socket/server_01.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -505,16 +487,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/10_OS/daily_checks.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="39" selection-start-line="39" selection-end-line="39" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/10_OS/platform_info.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="561">
@@ -529,16 +501,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rm.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="23" selection-start-column="23" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rename_me.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/rm.txt" />
+    <entry file="file://$PROJECT_DIR$/rename_me.py" />
     <entry file="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/357686942/posix.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2108">
@@ -553,29 +517,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/temp.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/iter_content.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ok.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/iter_content.py" />
+    <entry file="file://$PROJECT_DIR$/ok.py" />
     <entry file="file:///usr/lib/python3.6/os.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="202">
@@ -610,12 +553,58 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/10_OS/count_files.py">
+    <entry file="file://$PROJECT_DIR$/10_OS/daily_checks.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+        <state relative-caret-position="241">
+          <caret line="15" column="12" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file:///usr/lib/python3.6/crypt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+          <folding>
+            <element signature="e#77#90#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09_socket/nmap_scan_o1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="12" lean-forward="true" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/temp.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10_OS/count_files.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11_image/pillow_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11_image/cv2_01.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>

@@ -11,5 +11,3 @@ os.chdir(dirname)
 a = os.listdir('.')
 print(len(a))   # 91    # 80 23:30
 
-
-print(os.getenv('logs'))
