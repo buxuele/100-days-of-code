@@ -8,7 +8,7 @@ import gevent
 from gevent import pool
 
 
-# https:// 061NT/out000.ts
+# https://000.ts
 def gen():
     us = []
     for i in open('index.m3u8'):
