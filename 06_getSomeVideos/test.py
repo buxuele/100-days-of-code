@@ -1,4 +1,0 @@
-import this
-
-
-print("ok")
