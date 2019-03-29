@@ -18,12 +18,12 @@ next step
 
 """
 
-# https://1-398-19-12.b.cdn13.com/hls/008/327/912/720p.h264.mp4/seg-1-v1-a1.ts?cdn_creation_time=1553428800&cdn_ttl=14400&cdn_cv_data=116.238.131.199&cdn_hash=6404e417a16f4a6d2d78a96917619b9e
+
 def gen():
     us = []
     for i in open('index.m3u8'):
         if i[0] != "#":
-            url = "https://1-398-19-12.b.cdn13.com/hls/008/327/912/720p.h264.mp4/" + i.strip()
+            url = 'h' + i.strip()
             # yield url
             us.append(url)
     return us
@@ -69,12 +69,10 @@ if __name__ == '__main__':
         cat *.ts > all.ts   
         ffmpeg -i all.ts -acodec copy -vcodec copy h2.mp4
 
-    option 2(need key):
+    option 2(if key):
         1. change *.m3u8: 
             #EXT-X-KEY:METHOD=AES-128,URI=key.key !!! no-quote-marks
-        2. run : 
-            #  # this is a good one!
-            ffmpeg -allowed_extensions ALL -i index.m3u8 -c copy h1.mp4  
+        2. ffmpeg -allowed_extensions ALL -i index.m3u8 -c copy h1.mp4  
 
     option 3(not sure about this):
         ffmpeg -i index.m3u8 -c copy rename_me.mp4
