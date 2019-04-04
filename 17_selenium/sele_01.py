@@ -1,4 +1,4 @@
-# when: 2019/03/30 10:24 PM
+# when: 2019/04/03 9:54 PM
 # who: fanchuang
 # repo: https://github.com/buxuele/
 # find: baogebuxuele@163.com
@@ -25,6 +25,8 @@ from selenium.webdriver.support.wait import WebDriverWait
 d = webdriver.Chrome()
 d.get('https://www.baidu.com')
 input_box = d.find_element_by_id('kw')
+
+
 input_box.send_keys('apple')
 input_box.send_keys(Keys.ENTER)
 
@@ -38,6 +40,7 @@ print(d.get_cookies())  # 6666666666
 
 # 滚动屏幕
 d.execute_script('window.scrollTo(0, document.body.scrollHeight)')
-d.execute_script("alert('Bottom')")
+# d.execute_script("alert('Bottom')")
 
 d.close()
+

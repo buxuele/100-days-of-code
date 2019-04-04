@@ -2,3 +2,4 @@
 venv/
 *.m3u8
 *.key
+data/
