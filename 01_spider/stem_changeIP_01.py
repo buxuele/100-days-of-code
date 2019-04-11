@@ -25,14 +25,6 @@ with Controller.from_port(port=9051) as c:
     resp2 = requests.get("http://icanhazip.com/")
     print(resp2.text.strip())
 
-#
-#
-# def rename_me():
-#     pass
-#
-#
-# if __name__ == "__main__":
-#     pass
 
 
 

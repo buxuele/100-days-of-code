@@ -34,6 +34,8 @@ def set_up(url):
 
 if __name__ == '__main__':
     set_up(url_linux)
+    print("**"*20)
+    set_up(url)
 
 
 

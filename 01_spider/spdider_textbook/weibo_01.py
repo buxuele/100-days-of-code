@@ -21,8 +21,6 @@ headers = {'Host': 'm.weibo.cn',
 
 
 def grab():
-
-
     html = requests.get(url, headers=headers).text
     print(html)
 
