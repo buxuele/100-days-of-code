@@ -9,7 +9,7 @@
 import time
 import os
 
-interface = 'enp3s0'
+interface = 'lalalalala'
 
 os.system(f'sudo ifconfig {interface} down')
 os.system(f'sudo macchanger -r {interface}')

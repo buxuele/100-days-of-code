@@ -7,7 +7,6 @@
 1. failed...
 
 """
-from urllib.parse import urlencode
 import requests
 from fake_useragent import UserAgent
 

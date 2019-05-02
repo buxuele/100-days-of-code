@@ -9,12 +9,17 @@
 """
 
 
-def rename_me():
-    pass
+from string import ascii_letters, digits
+import time
+import codecs
 
+h = codecs.encode(b"494-please", "hex")
+print(h)
 
-if __name__ == "__main__":
-    pass
+g = codecs.encode((b"%d-admin" % 89), "hex").decode('utf-8')
 
+print(g)
+# 3439342d706c65617365
+# 3136392d
 
-
+print("some".encode("utf-8"))

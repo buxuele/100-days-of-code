@@ -2,16 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9c883f40-63bc-46e8-a9ba-fcdb5dca6f7b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_spider/sniff_news.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_spider/sniff_news.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_spider/spdider_textbook/weibo_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_spider/spdider_textbook/weibo_01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_spider/stem_changeIP_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_spider/stem_changeIP_01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_create_gif/Screenshot from 2019-02-10 22-33-38.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_create_gif/Screenshot from 2019-02-11 03-23-20.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_create_gif/Screenshot from 2019-02-11 03-45-09.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_create_gif/chelsea_gray.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_create_gif/out.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_spider/bilibili_videos/bi_01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_spider/spdider_textbook/weibo_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_spider/spdider_textbook/requests_headers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_spider/spdider_textbook/zhihu_text.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05/itertools_cycle.py" beforeDir="false" afterPath="$PROJECT_DIR$/05/itertools_cycle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08_wifite/aiohttp_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/08_wifite/aiohttp_01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12_cool_tools/change_mac.py" beforeDir="false" afterPath="$PROJECT_DIR$/12_cool_tools/change_mac.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12_cool_tools/pycharm_templates.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/21_CTF/nato.py" beforeDir="false" afterPath="$PROJECT_DIR$/21_CTF/nato.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/temp.py" beforeDir="false" afterPath="$PROJECT_DIR$/temp.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,33 +19,18 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="100-days-of-code" />
+    <favorites_list name="common_tools" />
+  </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/22_flask/app_01.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/22_flask/templates/base.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -61,62 +45,62 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/12_cool_tools/twillo_01.py" />
-        <option value="$PROJECT_DIR$/12_cool_tools/013_pydata.py" />
-        <option value="$PROJECT_DIR$/13_pydata/plot_random.py" />
-        <option value="$PROJECT_DIR$/14_gui/remi_01.py" />
-        <option value="$PROJECT_DIR$/01_spider/wikidata_client.py" />
-        <option value="$PROJECT_DIR$/14_gui/common_func.py" />
-        <option value="$PROJECT_DIR$/14_gui/firefly_o1.py" />
-        <option value="$PROJECT_DIR$/12_cool_tools/tzlocal_o1.py" />
-        <option value="$PROJECT_DIR$/12_cool_tools/cheat_on_shell.py" />
-        <option value="$PROJECT_DIR$/14_gui/termgarph_01.py" />
-        <option value="$PROJECT_DIR$/01_spider/xh_o1.py" />
-        <option value="$PROJECT_DIR$/06_getSomeVideos/rename.py" />
-        <option value="$PROJECT_DIR$/14_gui/wxPython_01.py" />
-        <option value="$PROJECT_DIR$/15_aiohttp/aiohttp_01.py" />
-        <option value="$PROJECT_DIR$/15_aiohttp/server_o1.py" />
-        <option value="$PROJECT_DIR$/15_aiohttp/client_01.py" />
-        <option value="$PROJECT_DIR$/15_aiohttp/chat/templates/index.html" />
-        <option value="$PROJECT_DIR$/15_aiohttp/chat/__init__.py" />
-        <option value="$PROJECT_DIR$/15_aiohttp/chat/views.py" />
-        <option value="$PROJECT_DIR$/15_aiohttp/chat/main.py" />
-        <option value="$PROJECT_DIR$/13_pydata/plotly_01.py" />
-        <option value="$PROJECT_DIR$/13_pydata/plotly_02.py" />
-        <option value="$PROJECT_DIR$/06_getSomeVideos/getTS.py" />
-        <option value="$PROJECT_DIR$/15_aiohttp/16_TCP_IP.py" />
-        <option value="$PROJECT_DIR$/01_spider/bilibili_videos/bi_01.py" />
-        <option value="$PROJECT_DIR$/01_spider/spdider_textbook/csv_01.py" />
-        <option value="$PROJECT_DIR$/01_spider/spdider_textbook/zhihu_text.py" />
-        <option value="$PROJECT_DIR$/16_TCP_IP/tcp_ip_01.py" />
-        <option value="$PROJECT_DIR$/01_spider/sele_02.py" />
-        <option value="$PROJECT_DIR$/17_selenium/sele_01.py" />
-        <option value="$PROJECT_DIR$/17_selenium/sele_02.py" />
-        <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/19_job_interview/mmap_01.py" />
-        <option value="$PROJECT_DIR$/18_opencv_wrapper/op_o1.py" />
-        <option value="$PROJECT_DIR$/19_job_interview/os_opt.py" />
-        <option value="$PROJECT_DIR$/19_job_interview/day_of_year.py" />
-        <option value="$PROJECT_DIR$/19_job_interview/shuffle_list.py" />
-        <option value="$PROJECT_DIR$/19_job_interview/sort_dict.py" />
-        <option value="$PROJECT_DIR$/19_job_interview/class_otp.py" />
-        <option value="$PROJECT_DIR$/19_job_interview/some_notes.txt" />
-        <option value="$PROJECT_DIR$/19_job_interview/algorithm_fun.py" />
-        <option value="$PROJECT_DIR$/16_TCP_IP/readme.md" />
-        <option value="$PROJECT_DIR$/temp.py" />
-        <option value="$PROJECT_DIR$/20_stuff/typing_o1.py" />
-        <option value="$PROJECT_DIR$/21_CTF/nato.py" />
         <option value="$PROJECT_DIR$/20_stuff/color_counting.py" />
         <option value="$PROJECT_DIR$/01_spider/spdider_textbook/weibo_01.py" />
         <option value="$PROJECT_DIR$/01_spider/sniff_news.py" />
         <option value="$PROJECT_DIR$/01_spider/stem_changeIP_01.py" />
         <option value="$PROJECT_DIR$/22_flask/templates/base.html" />
         <option value="$PROJECT_DIR$/22_flask/app_01.py" />
+        <option value="$PROJECT_DIR$/12_cool_tools/change_mac.py" />
+        <option value="$PROJECT_DIR$/10_OS/convert_ts_to_mp4.py" />
+        <option value="$PROJECT_DIR$/08_wifite/aiohttp_01.py" />
+        <option value="$PROJECT_DIR$/20_stuff/text_color.py" />
+        <option value="$PROJECT_DIR$/21_CTF/natas_15.py" />
+        <option value="$PROJECT_DIR$/21_CTF/natas_16.py" />
+        <option value="$PROJECT_DIR$/21_CTF/natas_17.py" />
+        <option value="$PROJECT_DIR$/21_CTF/nato.py" />
+        <option value="$PROJECT_DIR$/21_CTF/natas_18.py" />
+        <option value="$PROJECT_DIR$/21_CTF/natas_19.py" />
+        <option value="$PROJECT_DIR$/21_CTF/natas-_19_multi_process.py" />
+        <option value="$PROJECT_DIR$/21_CTF/natas_20.py" />
+        <option value="$PROJECT_DIR$/21_CTF/natas_21.py" />
+        <option value="$PROJECT_DIR$/21_CTF/natas22.py" />
+        <option value="$PROJECT_DIR$/21_CTF/natas_24.py" />
+        <option value="$PROJECT_DIR$/21_CTF/natas_25.py" />
+        <option value="$PROJECT_DIR$/21_CTF/26_tool.php" />
+        <option value="$PROJECT_DIR$/21_CTF/natas_26.py" />
+        <option value="$PROJECT_DIR$/21_CTF/natas_27.py" />
+        <option value="$PROJECT_DIR$/21_CTF/28_tools.py" />
+        <option value="$PROJECT_DIR$/21_CTF/natas28.py" />
+        <option value="$PROJECT_DIR$/24_kryptons/level_0.py" />
+        <option value="$PROJECT_DIR$/23_personal/test.py" />
+        <option value="$PROJECT_DIR$/23_personal/ci.py" />
+        <option value="$PROJECT_DIR$/23_personal/deal_encode.py" />
+        <option value="$PROJECT_DIR$/23_personal/temp.py" />
+        <option value="$PROJECT_DIR$/23_personal/backend_login.py" />
+        <option value="$PROJECT_DIR$/23_personal/cat_file.py" />
+        <option value="$PROJECT_DIR$/24_kryptons/ok.py" />
+        <option value="$PROJECT_DIR$/23_personal/serious.py" />
+        <option value="$PROJECT_DIR$/23_personal/calc.py" />
+        <option value="$PROJECT_DIR$/23_personal/race_100metres.py" />
+        <option value="$PROJECT_DIR$/23_personal/race_100metres_COMPLETE.py" />
+        <option value="$PROJECT_DIR$/23_personal/01_confirm.py" />
+        <option value="$PROJECT_DIR$/23_personal/02_whoareyou.py" />
+        <option value="$PROJECT_DIR$/25_shineCTF/01_discipher.py" />
+        <option value="$PROJECT_DIR$/25_shineCTF/02_AQ.py" />
+        <option value="$PROJECT_DIR$/25_shineCTF/03_treasure.py" />
+        <option value="$PROJECT_DIR$/26_python3_review/string_40_funs.py" />
+        <option value="$PROJECT_DIR$/26_python3_review/scapy_pcap.py" />
+        <option value="$PROJECT_DIR$/26_python3_review/use_itertools.py" />
+        <option value="$PROJECT_DIR$/26_python3_review/port_scan.py" />
+        <option value="$PROJECT_DIR$/05/itertools_cycle.py" />
+        <option value="$PROJECT_DIR$/01_spider/spdider_textbook/requests_headers.py" />
+        <option value="$PROJECT_DIR$/temp.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="4">
-    <option name="x" value="2423" />
+    <option name="x" value="1487" />
     <option name="y" value="27" />
     <option name="width" value="937" />
     <option name="height" value="1053" />
@@ -129,28 +113,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="100-days-of-code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="100-days-of-code" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="100-days-of-code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="100-days-of-code" type="462c0819:PsiDirectoryNode" />
-              <item name="22_flask" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="100-days-of-code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="100-days-of-code" type="462c0819:PsiDirectoryNode" />
-              <item name="22_flask" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scope">
         <subPane subId="Scope 'Default Changelist'; set:Default Changelist; class com.intellij.packageDependencies.ChangeListScope">
           <expand>
@@ -170,6 +132,17 @@
             <path>
               <item name="100-days-of-code" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="01_spider" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="100-days-of-code" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="01_spider" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="spdider_textbook" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="100-days-of-code" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
               <item name="15_aiohttp" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
@@ -177,6 +150,22 @@
               <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
               <item name="15_aiohttp" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="chat" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="100-days-of-code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="100-days-of-code" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="100-days-of-code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="100-days-of-code" type="462c0819:PsiDirectoryNode" />
+              <item name="25_shineCTF" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -207,8 +196,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.app_01">
-    <configuration name="app_01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.art_print_allFont">
+    <configuration name="art_print_allFont" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="100-days-of-code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -216,11 +205,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/22_flask" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/22_flask/app_01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05/art_print_allFont.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -250,7 +239,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="print_color_01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="find_books" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="100-days-of-code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -258,11 +247,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12_cool_tools" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01_spider" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12_cool_tools/print_color_01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01_spider/find_books.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -271,7 +260,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="timy_01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="port_scan" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="100-days-of-code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -279,11 +268,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12_cool_tools" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/26_python3_review" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12_cool_tools/timy_01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/26_python3_review/port_scan.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -292,7 +281,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="twillo_01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="requests_headers" type="PythonConfigurationType" factoryName="Python">
       <module name="100-days-of-code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -300,11 +289,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12_cool_tools" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01_spider/spdider_textbook" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12_cool_tools/twillo_01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01_spider/spdider_textbook/requests_headers.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -313,7 +302,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tzlocal_o1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="sniff_news" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="100-days-of-code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -321,11 +310,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12_cool_tools" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01_spider" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12_cool_tools/tzlocal_o1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01_spider/sniff_news.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="use_itertools" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="100-days-of-code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/26_python3_review" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/26_python3_review/use_itertools.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -336,11 +346,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.app_01" />
-        <item itemvalue="Python.timy_01" />
-        <item itemvalue="Python.twillo_01" />
-        <item itemvalue="Python.tzlocal_o1" />
-        <item itemvalue="Python.print_color_01" />
+        <item itemvalue="Python.art_print_allFont" />
+        <item itemvalue="Python.sniff_news" />
+        <item itemvalue="Python.find_books" />
+        <item itemvalue="Python.port_scan" />
+        <item itemvalue="Python.use_itertools" />
       </list>
     </recent_temporary>
   </component>
@@ -357,7 +367,7 @@
     </task>
     <servers />
   </component>
-  <component name="TodoView">
+  <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
       <is-autoscroll-to-source value="true" />
     </todo-panel>
@@ -367,23 +377,22 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="2423" y="27" width="937" height="1053" extended-state="4" />
-    <editor active="true" />
+    <frame x="1487" y="27" width="1873" height="1053" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26805252" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49945474" visible="true" weight="0.16486487" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Favorites" order="2" sideWeight="0.50054526" side_tool="true" weight="0.16486487" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49875313" weight="0.45038167" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991276" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.3293348" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3293348" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4984955" weight="0.9269357" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50150454" side_tool="true" weight="0.6259542" />
-      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3293348" />
+      <window_info anchor="bottom" id="Debug" order="2" weight="0.3991276" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="5" weight="0.3293348" />
+      <window_info anchor="bottom" id="Version Control" order="6" weight="0.3293348" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4984955" weight="0.48854962" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50150454" side_tool="true" weight="0.6259542" />
+      <window_info anchor="bottom" id="Python Console" order="9" weight="0.40239912" />
+      <window_info anchor="bottom" x="2183" y="271" width="934" height="568" id="Run" order="10" sideWeight="0.49875313" weight="0.51799345" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -453,133 +462,55 @@
       <path value="$PROJECT_DIR$/data/opencv_wrapper" />
     </ignored-roots>
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file:///usr/lib/python3.6/ssl.py</url>
-          <line>1157</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/temp.py</url>
-          <line>5</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/19_job_interview/algorithm_fun.py">
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/357686942/itertools.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="80" lean-forward="true" selection-start-line="80" selection-end-line="80" />
+        <state relative-caret-position="193">
+          <caret line="469" column="73" selection-start-line="469" selection-start-column="73" selection-end-line="469" selection-end-column="73" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/16_TCP_IP/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="34">
-            <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="255">
-            <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/temp.py">
+    <entry file="file://$USER_HOME$/.local/lib/python3.6/site-packages/socks.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="18" lean-forward="true" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        <state relative-caret-position="137">
+          <caret line="435" column="8" selection-start-line="435" selection-start-column="8" selection-end-line="435" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/18_opencv_wrapper/op_o1.py">
+    <entry file="file:///usr/lib/python3.6/ssl.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="145">
+          <caret line="936" column="8" selection-start-line="936" selection-start-column="8" selection-end-line="936" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/20_stuff/typing_o1.py" />
-    <entry file="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/357686942/builtins.py">
+    <entry file="file://$USER_HOME$/.local/lib/python3.6/site-packages/twisted/python/sendmsg.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="599">
-          <caret line="4980" column="39" lean-forward="true" selection-start-line="4980" selection-start-column="39" selection-end-line="4980" selection-end-column="39" />
+        <state relative-caret-position="111">
+          <caret line="45" column="7" lean-forward="true" selection-start-line="45" selection-start-column="7" selection-end-line="45" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/21_CTF/nato.py">
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3/socket.pyi">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="137">
+          <caret line="574" column="15" lean-forward="true" selection-start-line="574" selection-start-column="15" selection-end-line="574" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/20_stuff/timg.jpeg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/20_stuff/color_counting.py">
+    <entry file="file://$PROJECT_DIR$/01_spider/bilibili_videos/bi_01.py" />
+    <entry file="file://$PROJECT_DIR$/01_spider/spdider_textbook/a.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="29" lean-forward="true" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
-          <folding>
-            <element signature="e#130#151#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="17">
+          <caret line="1" column="15" lean-forward="true" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01_spider/bilibili_videos/bi_01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01_spider/spdider_textbook/weibo_01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="26" lean-forward="true" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
-          <folding>
-            <element signature="e#139#173#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01_spider/spdider_textbook/zhihu_text.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
-          <folding>
-            <element signature="e#189#204#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01_spider/find_books.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="20" column="36" lean-forward="true" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
-          <folding>
-            <element signature="e#178#193#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/01_spider/spdider_textbook/zhihu_text.py" />
     <entry file="file://$PROJECT_DIR$/01_spider/sniff_news.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="24" column="43" lean-forward="true" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="43" />
+        <state relative-caret-position="154">
+          <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
           <folding>
             <element signature="e#162#171#0" expanded="true" />
           </folding>
@@ -588,18 +519,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/01_spider/stem_changeIP_01.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
-          <folding>
-            <element signature="e#175#190#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="102">
+          <caret line="6" column="27" lean-forward="true" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/01_spider/wiki_api.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="40" column="38" selection-start-line="40" selection-start-column="38" selection-end-line="40" selection-end-column="38" />
+        <state relative-caret-position="-222">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
@@ -607,75 +535,34 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/01_spider/wiki_random.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/01_spider/wikidata_client.py">
+    <entry file="file://$PROJECT_DIR$/02_create_gif/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="6" lean-forward="true" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01_spider/spdider_textbook/csv_01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="3" lean-forward="true" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02_create_gif/create_gif.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
           <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02_create_gif/chelsea_gray.jpg" />
-    <entry file="file://$PROJECT_DIR$/02_create_gif/Screenshot from 2019-02-11 03-45-09.png" />
-    <entry file="file://$PROJECT_DIR$/02_create_gif/Screenshot from 2019-02-11 03-23-20.png" />
-    <entry file="file://$PROJECT_DIR$/02_create_gif/Screenshot from 2019-02-10 22-33-38.png" />
-    <entry file="file://$PROJECT_DIR$/02_create_gif/imageio_func.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
+            <element signature="e#0#11#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/03_someAPI/get_clipboard.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="67">
+          <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/03_someAPI/image_api.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/03_someAPI/json_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/03_someAPI/weather_api.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="44" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
+        <state relative-caret-position="-306">
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
@@ -684,135 +571,254 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/04_find_links/read_file.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="187">
+          <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_find_links/some.txt">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/04_find_links/test.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07_nikto/nikto01.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        <state relative-caret-position="170">
+          <caret line="10" column="14" lean-forward="true" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08_wifite/aiohttp_01.py">
+    <entry file="file://$PROJECT_DIR$/05/3_gevent_review.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="-561" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05/art_print_allFont.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="52" lean-forward="true" selection-start-line="9" selection-start-column="52" selection-end-line="9" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05/asyncio_example.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05/csv_split.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-612">
           <folding>
-            <element signature="e#0#14#0" expanded="true" />
+            <element signature="e#0#10#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08_wifite/aiohttp_fun.py">
+    <entry file="file://$PROJECT_DIR$/05/date_operate.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05/find_allLinks.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="115">
+          <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
           <folding>
-            <element signature="e#0#14#0" expanded="true" />
+            <element signature="e#0#9#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08_wifite/wifite_note.py">
+    <entry file="file://$PROJECT_DIR$/05/find_files_recursively.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-460" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/09_socket/client_01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/09_socket/server_02.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-222">
+        <state relative-caret-position="-361">
           <folding>
-            <element signature="e#0#13#0" expanded="true" />
+            <element signature="e#0#9#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/10_OS/daily_checks.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10_OS/count_files.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/12_cool_tools/change_mac.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/12_cool_tools/print_color_01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/12_cool_tools/pycharm_templates.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/12_cool_tools/pywifi_01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1122" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/12_cool_tools/uuid_format.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-27" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/12_cool_tools/tzlocal_o1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/12_cool_tools/twillo_01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/12_cool_tools/timy_01.py">
+    <entry file="file://$PROJECT_DIR$/05/itertools_combinations.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+          <caret line="6" column="22" lean-forward="true" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05/itertools_cycle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05/key.key">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05/celery_basic.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05/multiprocessing_crawl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="18" column="18" lean-forward="true" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/10_OS/platform_info.py">
+    <entry file="file://$PROJECT_DIR$/05/namp_is_dope.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-316">
-          <caret line="13" column="15" lean-forward="true" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
+        <state relative-caret-position="17">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/22_flask/templates/base.html">
+    <entry file="file://$PROJECT_DIR$/05/optimize_images_with_wand.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        <state>
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/22_flask/app_01.py">
+    <entry file="file://$PROJECT_DIR$/05/random_name_generator.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05/re_example.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="2023">
+          <caret line="119" column="35" lean-forward="true" selection-start-line="119" selection-start-column="35" selection-end-line="119" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05/rename_files.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05/run_timer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05/operate_folders.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="23" lean-forward="true" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_spider/spdider_textbook/csv_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_spider/find_books.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="22" lean-forward="true" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+          <folding>
+            <element signature="e#178#193#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_create_gif/imageio_func.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_spider/wikidata_client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_spider/spdider_textbook/requests_headers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+          <folding>
+            <element signature="e#140#155#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/temp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="17" lean-forward="true" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/lib/python3.6/site-packages/requests/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="24" column="80" lean-forward="true" selection-start-line="24" selection-start-column="80" selection-end-line="24" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_create_gif/create_gif.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/26_python3_review/string_40_funs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="54" column="22" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/26_python3_review/use_itertools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/25_shineCTF/01_discipher.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="16" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+          <folding>
+            <element signature="e#58#71#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/26_python3_review/port_scan.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="19" lean-forward="true" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
         </state>
       </provider>
     </entry>
