@@ -1,0 +1,43 @@
+#!/usr/bin/python3
+# Time: 2019/04/26 6:51 PM
+# About: 
+
+# content = b'&\xc4=\xe5\x92-\x00\xaa\xa6\x8ez:(<\x10\xa82\xdb\xf5@\xe5\xae)\x97^\xc9\x8dA\xd3\xcf1\x8f'
+content = b'\xc4\xe5\x92\x00\xaa\xa6\x8e\x10\xa8\xdb\xf5\xe5\xae\x97\xc9\x8d\xd3\xcf\x8f'
+others = b'w@J)w\x03\xaa\x9d\x08\xdf\xe7\x87\x9e\xed8\xbf'
+
+
+with open("testfile4", "wb") as f:
+    f.write(content)
+
+# print(content.decode("utf-8"))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
