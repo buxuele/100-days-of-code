@@ -3,3 +3,7 @@ venv/
 *.m3u8
 *.key
 data/
+.vscode/
+data/
+*.jpg
+
